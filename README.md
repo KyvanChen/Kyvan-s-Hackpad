@@ -17,5 +17,5 @@ BOM:
 - 4x Keycaps (3d printed?)
 - 1x 3D printed Knob
 - 1x 3D printed case
-- 5x WS2812B LEDs
+- 5x SK6812 mini LEDs
 - 1x EC11 Rotary Encoder
