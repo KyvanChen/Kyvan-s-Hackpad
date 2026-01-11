@@ -7,6 +7,9 @@ Hackpad PCB:
 Hackpad Schematics:
 <img width="1730" height="839" alt="image" src="https://github.com/user-attachments/assets/2c9e7cec-14c8-44e0-b012-8e5bdbee8876" />
 
+Case:
+<img width="1244" height="775" alt="image" src="https://github.com/user-attachments/assets/b3378976-98b0-4927-a10c-66e4c6ffb563" />
+
 Hackpad in case:
 <img width="1219" height="876" alt="image" src="https://github.com/user-attachments/assets/1c5af8eb-9198-4966-927d-9da9cdfa586b" />
 
